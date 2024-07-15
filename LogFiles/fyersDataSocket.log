@@ -1,0 +1,2 @@
+{"level":"ERROR","location":"[<lambda>:1663] data_ws","message":"Connection to remote host was lost.","timestamp":"2024-07-09 02:44:26,707+0530","service":"FyersDataSocket"}
+{"level":"ERROR","location":"[<lambda>:1663] data_ws","message":"[Errno 22] Invalid argument","timestamp":"2024-07-09 02:44:26,781+0530","service":"FyersDataSocket"}

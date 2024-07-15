@@ -1,0 +1,6 @@
+2024-07-09 00:35:01,013 - FyersWS - INFO - Logger Initiated
+2024-07-09 00:35:04,285 - FyersWS - INFO - Subscribed to ['NSE:GMRINFRA-EQ']
+2024-07-09 00:35:04,285 - FyersWS - INFO - Connection Opened
+2024-07-09 00:35:04,285 - FyersWS - INFO - Connection Established
+2024-07-09 02:44:26,561 - FyersWS - DEBUG - Error : Connection to remote host was lost.
+2024-07-09 02:44:26,780 - FyersWS - DEBUG - Error : [Errno 22] Invalid argument
